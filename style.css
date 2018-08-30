@@ -1,0 +1,108 @@
+body{
+	background-image: url('background.jpg');
+	font-family: arial black;
+	height: 100vh;
+	width:100vw;
+	background-size: 100%;
+}
+ img{
+opacity: 0.6;
+}
+h3{
+	margin:0px;
+	padding: 1px;
+
+}
+.swaraaj{                           /*Head*/
+	text-align: center;
+	background-image: url('grey.jpg');
+	color: Black;
+	margin: none;
+	height:100vh;
+	width:100vw;
+font-family: civic sans;
+	background-size: 100%;
+	font-size: 200%;
+
+}
+
+.swaraaj:hover{
+	opacity: 0.76;
+	height:130%;
+	width:120%;
+	font-size: 230%;
+
+}
+.about{                           /*Description*/
+	margin: 10px;
+	margin-top: 20px;
+	padding: 3px;
+	text-align: center;
+	background-color: black;
+ height :40%;
+ width: 100vw;
+color: #00e600;
+font-family: comic sans ms;
+-width: 5px;
+	font-size: 130%;
+	background-size: 100%
+
+}                            /*MOVING IN A DIRECTION*/
+.move{
+	margin-right:40px;
+	padding: 1px;
+
+width: 100%;
+text-align: center;
+	font-size:250%;
+ color:white;
+ font-family: penuttimate;
+ background-color:black;
+}
+.move:hover{
+
+opacity: 0.9;
+font-size: 300%
+}
+.about:hover{                      /*MY PROFILE*/
+	opacity:0.82;
+height:50%;
+	padding:10px;
+}
+.skills{                           /*SKILLS*/
+	background-image: url('c2.jpg');
+	width:100vw;
+	height:40%;
+color: #99ffcc;
+font-size: 137%;
+text-align: center;
+background-size: 100%;
+}
+.skills:hover{
+opacity:0.81;
+	padding: 5px;
+-width: 8px;
+height: 50%;
+}
+.education{                      /*EDUCATIONAL DETAILS*/
+	background-color: #9966ff;
+	height: 30%;
+margin: 20px;
+
+	background-size: 100%;
+
+}
+.education:hover{opacity:0.83;
+	height: 40%;
+
+}
+.works{
+	background-color:white;  /*WORKS*/
+	color:blue;
+	text-align: center;
+	padding: 50px;
+}
+.works:hover{
+	opacity: 0.82;
+
+}
